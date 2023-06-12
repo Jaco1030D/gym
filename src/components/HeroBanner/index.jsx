@@ -9,7 +9,9 @@ const HeroBanner = () => (
       Sweat, Smile <br />
       And Repeat
     </Typography>
-    <Typography {...mui.typographyThird}>Check out the most effective exercises personalized to you</Typography>
+    <Typography {...mui.typographyThird}>
+      Check out the most effective exercises <br /> personalized to you
+    </Typography>
     <Stack>
       <a {...mui.aStyle}>Explore Exercises</a>
     </Stack>
